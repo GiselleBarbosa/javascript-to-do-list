@@ -1,3 +1,3 @@
-# to-do-list-OOP
+# to-do-list-object-oriented
 
-[Deploy](https://gisellebarbosa.github.io/to-do-list-OOP/)
+[Deploy](https://gisellebarbosa.github.io/javascript-to-do-list/)
